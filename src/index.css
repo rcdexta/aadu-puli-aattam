@@ -9,3 +9,7 @@ body{
   transition: all 0.8s ease-in-out;
 }
 
+text {
+  font-size: 6px;
+  font-weight: 300;
+}
