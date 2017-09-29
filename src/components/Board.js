@@ -13,7 +13,7 @@ class Board extends Component {
           <polygon points="150,160 350,160 415,300 80,300" className="triangle" />
 
           <circle cx="250" cy="60" r="5" />
-					<image xlinkHref={Tiger} x="240" y="50" height="24" width="24" />
+					<image xlinkHref={Tiger} x="238" y="45" height="24" width="24" />
 
           <circle cx="150" cy="160" r="5" />
           <text x="150" y="160" textAnchor="middle" stroke="#FFF" strokeWidth="0.5px" dy=".01em">
@@ -26,9 +26,9 @@ class Board extends Component {
           </text>
           <image xlinkHref={Lamb} x="195" y="150" height="24" width="24" />
           <circle cx="235" cy="160" r="5" />
-					<image xlinkHref={Tiger} x="222" y="145" height="24" width="24" />
+					<image xlinkHref={Tiger} x="222" y="148" height="24" width="24" />
           <circle cx="265" cy="160" r="5" />
-					<image xlinkHref={Tiger} x="253" y="145" height="24" width="24" />
+					<image xlinkHref={Tiger} x="253" y="148" height="22" width="22" />
           
           <circle cx="295" cy="160" r="5" />
           <image xlinkHref={Lamb} x="285" y="150" height="24" width="24" />
