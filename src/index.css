@@ -5,11 +5,16 @@ body{
 .triangle{
   fill: transparent;
   stroke: white;
-  stroke-width: 3;
+  stroke-width: 1;
   transition: all 0.8s ease-in-out;
+}
+
+circle {
+  fill: #ffdc9a;
 }
 
 text {
   font-size: 6px;
   font-weight: 300;
 }
+

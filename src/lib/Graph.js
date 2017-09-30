@@ -34,7 +34,7 @@ export default class Graph {
     this.values[vertex] = value
   }
 
-  valueOf = vertex => {
+  valueAt = vertex => {
     return this.values[vertex]
   }
 

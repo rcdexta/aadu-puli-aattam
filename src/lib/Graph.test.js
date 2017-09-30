@@ -48,8 +48,8 @@ describe('Graph', function() {
     it('should assign and retrieve value to a vertex', () => {
       g.addVerticalEdge(1, 2)
       g.setValue(1, 'abc')
-      expect(g.valueOf(1)).toEqual('abc')
-      expect(g.valueOf(2)).toEqual(undefined)
+      expect(g.valueAt(1)).toEqual('abc')
+      expect(g.valueAt(2)).toEqual(undefined)
     })
   })
 
