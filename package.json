@@ -6,7 +6,9 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "svg.draggable.js": "^2.2.1",
+    "svg.js": "^2.6.3"
   },
   "scripts": {
     "start": "react-scripts start",

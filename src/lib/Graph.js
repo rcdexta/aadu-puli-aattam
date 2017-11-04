@@ -34,6 +34,10 @@ export default class Graph {
     this.values[vertex] = value
   }
 
+  unsetValue = (vertex) => {
+    this.values[vertex] = null
+  }
+
   valueAt = vertex => {
     return this.values[vertex]
   }

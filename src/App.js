@@ -21,7 +21,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="app">
         <h3>ஆடு புலி ஆட்டம்</h3>
         <Board graph={this.initGraph()} />
       </div>
